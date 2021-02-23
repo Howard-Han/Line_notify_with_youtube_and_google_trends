@@ -2,6 +2,10 @@
 
 ### 此py檔之目的: 將每日前10大google搜尋關鍵字、特定Youtube頻道與影片的統計資料等，透過Line Notify傳送到使用者的Line之中
 
+### Python版本: 3.8.2
+
+### 所有用到之python套件: requests, bs4, re, json, numpy, pandas, datetime
+
 ### 參考網站:
 1. https://ithelp.ithome.com.tw/articles/10233841
 2. https://notify-bot.line.me/doc/en/
